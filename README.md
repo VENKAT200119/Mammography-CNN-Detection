@@ -273,8 +273,8 @@ This project was presented at the **13th International Conference on Science and
 - 📅 **Date**: 14th May 2023
 - 🏛️ **Venue**: Chennai, Tamil Nadu, India
 - 📜 **Certificate**: Received Certificate of Presentation
-- 👥 **Presenters**: CH. Venkat Sai Ram, A. Ajay
-- 👨‍🏫 **Supervisors**: Ms. M.S. Sivapriya, Y. Ganesh
+- 👥 **Team Members**: CH. Venkat Sai Ram, A. Ajay, Y. Ganesh
+- 👨‍🏫 **Supervisor**: Ms. M.S. Sivapriya
 
 
 ## 🎓 B.Tech Project Details
@@ -282,8 +282,8 @@ This project was presented at the **13th International Conference on Science and
 - **Project Title**: Mammography Identification Using Deep Learning Technique from Patient Scan Image
 - - **Institution**: SRM Institute of Science & Technology, Ramapuram Campus, Chennai, Tamil Nadu, India
 - **Department**: Computer Science and Engineering
-- **Team Members**: CH. Venkat Sai Ram, A. Ajay
-- **Guide**: Ms. M.S. Sivapriya, Y. Ganesh (Assistant Professor)
+- **Team Members**: CH. Venkat Sai Ram, A. Ajay, Y. Ganesh
+- **Guide**: Ms. M.S. Sivapriya (Assistant Professor)
 - **Conference**: 13th International Conference on Science and Innovative Engineering (ICSIE) 2023
 - **Organized By**: OSIET in association with Jawahar Engineering College, Chennai
 - **Collaboration**: Samarkand State University, Uzbekistan
