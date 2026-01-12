@@ -346,8 +346,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👤 Author
 
 **CH. Venkat Sai Ram**- GitHub: [@VENKAT200119](https://github.com/VENKAT200119)
-- LinkedIn: [Your LinkedIn Profile]
-- Email: [Your Email]
 
 ---
 
