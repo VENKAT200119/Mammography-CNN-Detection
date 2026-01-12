@@ -265,14 +265,30 @@ This project is based on research from:
 
 ---
 
+## 🎓 Conference Presentation
+
+This project was presented at the **13th International Conference on Science and Innovative Engineering (ICSIE) 2023**, organized by OSIET in association with Jawahar Engineering College, Chennai, and in collaboration with Samarkand State University, Uzbekistan.
+
+**Presentation Details:**
+- 📅 **Date**: 14th May 2023
+- 🏛️ **Venue**: Chennai, Tamil Nadu, India
+- 📜 **Certificate**: Received Certificate of Presentation
+- 👥 **Presenters**: CH. Venkat Sai Ram, A. Ajay
+- 👨‍🏫 **Supervisors**: Ms. M.S. Sivapriya, Y. Ganesh
+
+
 ## 🎓 B.Tech Project Details
 
 - **Project Title**: Mammography Identification Using Deep Learning Technique from Patient Scan Image
-- **Institution**: [Your University Name]
-- **Department**: Computer Science / Electronics Engineering
-- **Academic Year**: [Year]
-- **Team Size**: [Number]
-- **Guide**: [Professor Name]
+- - **Institution**: SRM Institute of Science & Technology, Ramapuram Campus, Chennai, Tamil Nadu, India
+- **Department**: Computer Science and Engineering
+- **Team Members**: CH. Venkat Sai Ram, A. Ajay
+- **Guide**: Ms. M.S. Sivapriya, Y. Ganesh (Assistant Professor)
+- **Conference**: 13th International Conference on Science and Innovative Engineering (ICSIE) 2023
+- **Organized By**: OSIET in association with Jawahar Engineering College, Chennai
+- **Collaboration**: Samarkand State University, Uzbekistan
+- **Presented On**: 14th May 2023
+- **Certificate of Presentation**: Received
 
 ---
 
@@ -321,8 +337,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👤 Author
 
-**Venkat**
-- GitHub: [@VENKAT200119](https://github.com/VENKAT200119)
+**CH. Venkat Sai Ram**- GitHub: [@VENKAT200119](https://github.com/VENKAT200119)
 - LinkedIn: [Your LinkedIn Profile]
 - Email: [Your Email]
 
