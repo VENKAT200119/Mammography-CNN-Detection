@@ -8,7 +8,7 @@
 
 ## 📋 Project Overview
 
-This project implements a **deep learning-based system** for mammography image detection and tissue density classification. Using GoogleNet CNN architecture, the system achieves **95% accuracy** on the MIAS (Mammographic Image Analysis Society) dataset, surpassing traditional radiologist performance.
+This project implements a **deep learning-based system** for mammography image detection and tissue density clasDatasetsification. Using GoogleNet CNN architecture, the system achieves **95% accuracy** on the MIAS (Mammographic Image Analysis Society) dataset, surpassing traditional radiologist performance. 
 
 ### 🎯 Key Features
 
@@ -209,6 +209,12 @@ print(f"Predicted: {predicted_class} ({confidence:.2f}% confidence)")
 ```
 Suckling, J. et al. (1994). The Mammographic Image Analysis Society Digital Mammogram Database. 
 Exerpta Medica. International Congress Series 1069, pp. 375-378.
+
+**Dataset Usage and Terms:**
+
+This project uses the MIAS database strictly for academic research and educational purposes. The MIAS (Mammographic Image Analysis Society) database is publicly available for research use. We acknowledge the contributions of the MIAS organization and all researchers who contributed to creating this valuable resource for the medical imaging research community.
+
+**Acknowledgment:** We express our gratitude to the Mammographic Image Analysis Society for providing this dataset, which has been instrumental in advancing mammography research and computer-aided detection systems worldwide.
 ```
 
 ---
@@ -236,6 +242,8 @@ Exerpta Medica. International Congress Series 1069, pp. 375-378.
 - **Dropout**: 40%
 - **Output Layer**: Softmax (3 classes)
 - **Total Parameters**: ~6.8M
+- 
+**Architecture Reference:** This implementation is based on GoogleNet (Inception v1) as described in: Szegedy, C., et al. (2015). "Going Deeper with Convolutions." IEEE Conference on Computer Vision and Pattern Recognition (CVPR).
 
 ### 4. Training Configuration
 - **Optimizer**: Adam (lr=0.001)
